@@ -49,7 +49,7 @@ This project involves designing a job portal website aimed at connecting job see
 
 ## Live URL of Figma Project
 
-[View the Figma Project](https://www.figma.com/proto/c05hyQFErCvGILTfF7K9Hu/Untitled?node-id=96-93&t=wfSlqymqitIshFos-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=164%3A2282)
+[View the Figma Project](https://www.figma.com/proto/c05hyQFErCvGILTfF7K9Hu/Untitled?node-id=164-2282&t=PNAkiIbGMM9KroYx-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=164%3A2282)
 
 ## Getting Started
 
